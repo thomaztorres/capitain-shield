@@ -1,5 +1,7 @@
 # Capitain America Shield
 
+![Alt text](/capitain-shield.png?raw=true)
+
 Simple project just to practice knowledge.
 
 ### Tecnologies Using
